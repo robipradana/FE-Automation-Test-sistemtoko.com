@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>H1</name>
+   <tag></tag>
+   <elementGuidId>e3855b9a-1c45-4372-a4eb-11f3ada43f8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.main_title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-container']/div/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>141cec83-70b4-4e39-b6e3-160f14d1f9f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main_title</value>
+      <webElementGuid>5128f752-d58f-4e16-b0f1-cfb8fc6cd79e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transformasi Digital Dengan Sistem, Tim &amp; Mentoring Gratis</value>
+      <webElementGuid>4ef82ebf-0be0-487a-956d-6f31e04e53fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;jumbotron_2&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-md-offset-1&quot;]/h1[@class=&quot;main_title&quot;]</value>
+      <webElementGuid>00d7b7ad-d8f1-48c2-9d88-014f1c09bc66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-container']/div/div/div/div/div/h1</value>
+      <webElementGuid>f11920c2-71ec-4a4d-bae1-8a0b14391e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='register'])[1]/following::h1[1]</value>
+      <webElementGuid>6d463e20-7bda-4815-b1b4-468ef05fed42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::h1[1]</value>
+      <webElementGuid>452c7fc1-4f5e-44b3-8501-701a3eb749de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar GRATIS Sekarang!'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e0226c56-3dae-421a-8214-8dfc69f421b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplikasi untuk mengelola Performa Toko Online &amp; Offline Anda dengan mudah, modern, dan terbaru'])[1]/preceding::h1[1]</value>
+      <webElementGuid>dad9a8bc-ed2c-4714-bc2b-a0f1f31b9979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transformasi Digital Dengan Sistem, Tim &amp; Mentoring Gratis']/parent::*</value>
+      <webElementGuid>26da543d-0acb-43d2-b176-62107b534659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>738e8180-19f1-4f74-81c5-30846f264363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Transformasi Digital Dengan Sistem, Tim &amp; Mentoring Gratis' or . = 'Transformasi Digital Dengan Sistem, Tim &amp; Mentoring Gratis')]</value>
+      <webElementGuid>5d935b11-31a3-4fc4-97a7-3a5710eefbbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -19,40 +19,34 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://sistemtoko.com')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/h1'), 
-    'Transformasi Digital Dengan Sistem, Tim & Mentoring Gratis')
+WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/h1'), 'Transformasi Digital Dengan Sistem, Tim & Mentoring Gratis')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/btn_Login'), 
-    'Login')
+WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/btn_Login'), 'Login')
 
 WebUI.doubleClick(findTestObject('Object Repository/Login user true and pass false/btn_Login'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/Email'), 
-    'Email')
+WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/Email'), 'Email')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Login user true and pass false/inpt_email'))
 
-WebUI.setText(findTestObject('Object Repository/Login user true and pass false/inpt_email'), 
-    'robipradana1996@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Login user true and pass false/inpt_email'), 'robipradana1996@gmail.com')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/password'), 
-    'Password')
+WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/password'), 'Password')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Login user true and pass false/inpt_pass'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login user true and pass false/inpt_pass'), 
-    'iGDxf8hSRT4=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Login user true and pass false/inpt_pass'), 'iGDxf8hSRT4=')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/btn_Login2'), 
-    'Login')
+WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/btn_Login2'), 'Login')
 
 WebUI.click(findTestObject('Object Repository/Login user true and pass false/btn_Login2'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/Operation Failed'), 
-    'Operation Failed')
+WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/Operation Failed'), 'Operation Failed')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Login user true and pass false/UsernamePassword did not match'), 
     'Username/Password did not match')
+
+WebUI.delay(2)
 
 WebUI.closeBrowser()
 
